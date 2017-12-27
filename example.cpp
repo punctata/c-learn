@@ -6,6 +6,6 @@ using namespace std;
 
 int main() {
   cout << "hw" << endl;
-  cout << "shit" << endl;
+  cout << "happy" << endl;
   return 0;
 }
